@@ -24,6 +24,6 @@
 
 9. browse the file in directory [Smart-Grocery-System/onlinesmart_system.sql].
 
-10. open any browser and type http://localhost/Smart-Grocery-System.
+10. open any browser and type http://localhost/Smart-Grocery-System/main_page.php.
 
 11.first register and then login
